@@ -40,6 +40,5 @@
   "exclude": [
     "node_modules",
     "prisma",
-    "src/__tests__"
   ]
 }
