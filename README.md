@@ -1,4 +1,7 @@
 # Task Manager API
+**GitHub**: https://github.com/Amritk-umar/task-manager-assessment
+
+**Live API**: https://task-manager-assessment-three.vercel.app
 
 A RESTful Task Management API built with Next.js, Prisma, and PostgreSQL (Neon).
 
