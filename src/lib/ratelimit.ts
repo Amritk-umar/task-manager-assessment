@@ -1,5 +1,5 @@
 import { Ratelimit } from "@upstash/ratelimit"
-import { Redis } from "@upstash/redis"
+import { Redis } from "@upstash/redis/cloudflare"
 
 export const ratelimit = new Ratelimit({
   redis: Redis.fromEnv(),
